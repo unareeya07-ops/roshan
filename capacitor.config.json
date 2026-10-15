@@ -1,0 +1,6 @@
+{
+  "appId": "com.soh.stylescanner",
+  "appName": "SOH Style Scanner",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
